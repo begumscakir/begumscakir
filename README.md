@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @begumscakir
 - 👀 I’m interested in back-end development and UX design
-- 🌱 And I’m learning Java as beginner ^^
+- 🌱 And I’m currently learning Java as beginner ^^
 
 
 <!---
